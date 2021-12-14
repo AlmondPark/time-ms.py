@@ -36,6 +36,3 @@ def ms(query: str):
         return mon * number
     else:
         return None
-
-
-print(ms('1h'))
